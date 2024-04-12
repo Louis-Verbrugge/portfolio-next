@@ -1,0 +1,18 @@
+
+
+.blockHead {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: var(--directionHeader);
+    align-items: center;
+    padding-top: 10em;
+}
+
+.block-nom-Language {
+    width: var(--tailleIntroduction);
+    text-align: center;
+}
+  
+.block-nom-Language h3 {
+    font-size: var(--tailleFontPresentation);
+}

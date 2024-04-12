@@ -1,0 +1,16 @@
+
+
+.blockContact {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+  
+.blockContact img {
+    width: var(--tailleImage);
+    height: var(--tailleImage);
+    border-radius: 50%;
+    border: 3px solid rgb(69, 69, 69);
+}
+

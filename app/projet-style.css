@@ -1,0 +1,16 @@
+.blockColumnProjet {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.blockProjet img {
+  width: var(--tailleImage);
+  height: var(--tailleImage);
+  border-radius: 50%;
+  border: 3px solid rgb(69, 69, 69);
+}
+
+.block-nom-Language h2 {
+  font-size: var(--tailleFontNom);
+}

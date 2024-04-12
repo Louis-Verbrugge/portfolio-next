@@ -1,0 +1,16 @@
+
+.blockLangage {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  
+  .blockLangage img {
+    width: var(--tailleImageLanguage);
+    height: var(--tailleImageLanguage);
+    margin: 1em;
+  }
+  

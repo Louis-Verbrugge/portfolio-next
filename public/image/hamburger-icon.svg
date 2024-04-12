@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="130.41098mm"
+   height="75.198715mm"
+   viewBox="0 0 130.41098 75.198715"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="menu deroulant.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3843855"
+     inkscape:cx="45.507555"
+     inkscape:cy="231.51066"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-38.260134,-63.348193)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.26501;stroke-opacity:1"
+       id="rect1"
+       width="126.139"
+       height="12.613899"
+       x="40.899616"
+       y="64.980698"
+       ry="6.3069496" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#fdfeff;stroke-width:3.26501;stroke-opacity:1"
+       id="rect1-7"
+       width="126.139"
+       height="12.613899"
+       x="40.628986"
+       y="94.702728"
+       ry="6.3069496" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.26501;stroke-opacity:1"
+       id="rect1-1"
+       width="126.139"
+       height="12.613899"
+       x="39.892639"
+       y="124.30051"
+       ry="6.3069496" />
+  </g>
+</svg>

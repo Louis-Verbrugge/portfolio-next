@@ -1,0 +1,47 @@
+.block-experience {
+    display: flex;
+    flex-direction: column;
+}
+
+.all-carte-experience {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+  
+
+.experience {
+    display: flex;
+    flex-direction: column;
+    margin: 1em;
+    margin-bottom: 5em;
+    background: linear-gradient(rgb(65, 105, 225), var(--color-background));
+    border-radius: 5%;
+    width: var(--tailleCarteExperienceW);
+    height: var(--tailleCarteExperienceH);
+    transition: transform 0.3s ease;
+    text-align: center;
+
+}
+  
+.experience h3 {
+    font-size: 1.5em;
+}
+
+.experience:hover {
+    transform: rotateX(5deg) rotateY(-15deg);
+}
+  
+.carte {
+    border-top: 1px solid rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+  
+.carte p {
+    font-size: var(--tailleFontCarte);
+}
+  
