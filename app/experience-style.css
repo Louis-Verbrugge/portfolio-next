@@ -9,7 +9,7 @@
     flex-wrap: wrap;
     justify-content: center;
 }
-  
+
 
 .experience {
     display: flex;
@@ -24,15 +24,11 @@
     text-align: center;
 
 }
-  
+
 .experience h3 {
     font-size: 1.5em;
 }
 
-.experience:hover {
-    transform: rotateX(5deg) rotateY(-15deg);
-}
-  
 .carte {
     border-top: 1px solid rgb(255, 255, 255);
     display: flex;
@@ -40,8 +36,7 @@
     margin-left: 2em;
     margin-right: 2em;
 }
-  
+
 .carte p {
     font-size: var(--tailleFontCarte);
 }
-  
