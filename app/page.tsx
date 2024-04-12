@@ -10,7 +10,6 @@ import LangagesOutils from "./langagesOutils";
 import Contact from "./contact";
 
 
-
 export default function Home() {
   useEffect(() => {
     const handleClick = (event: MouseEvent) => {
