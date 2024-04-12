@@ -6,7 +6,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Portfolio o Louis Verbrugge",
+  title: "Portfolio | Louis Verbrugge",
   description: "Louis Verbrugge, étudiant en informatique, développeur web et web mobile. Je vous présente mes projets personnels en informatique.",
 };
 
