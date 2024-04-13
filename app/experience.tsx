@@ -43,10 +43,9 @@ const experience = () => {
           <h3>Employé à Leclerc à Fretin</h3>
           <div className="carte">
             <p>Depuis 2024, je suis en CDI.</p>
-            <p>J'occupe un poste de prépateur de commandes en contrat étudiant le samedi</p>
+            <p>J'occupe un poste de prépateur de commandes en contrat étudiant le samedi.</p>
           </div>
         </div>
-
       </div>
     </div>
 
