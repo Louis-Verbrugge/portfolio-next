@@ -14,7 +14,8 @@ const experience = () => {
           <div className="carte">
             <p>Passionné d’informatique, j’ai rejoint ce groupe en ligne
               afin d’aider les membres sur des problématiques de
-              codage. Ce groupe me permet également de p</p>
+              codage. Ce groupe me permet également de progresser et de
+              découvrir de nouvelles compétences.</p>
           </div>
         </div>
 
@@ -41,9 +42,8 @@ const experience = () => {
         <div className="experience">
           <h3>Employé à Leclerc à Fretin</h3>
           <div className="carte">
-            <p>Depuis 2024 , je suis en CDI.</p>
+            <p>Depuis 2024, je suis en CDI.</p>
             <p>J'occupe un porte de préparetue de commandes en contrat étudiant le samedi</p>
-            <p>Wild Code School</p>
           </div>
         </div>
 
