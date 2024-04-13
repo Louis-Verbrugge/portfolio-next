@@ -17,7 +17,7 @@
     --menuHanberger: flex;
     --tailleImageLanguage: 30px;
     --tailleImage: 60px;
-    --tailleEntreBlock: 250px;
+    --tailleEntreBlock: 50px;
     --tailleFontPresentation: 1.1em;
     --tailleIntroduction: 50%;
   }
@@ -37,7 +37,7 @@
     --menuHanberger: flex;
     --tailleImageLanguage: 40px;
     --tailleImage: 70px;
-    --tailleEntreBlock: 250px;
+    --tailleEntreBlock: 50px;
     --tailleFontPresentation: 1.1em;
     --tailleIntroduction: 50%;
 
@@ -58,7 +58,7 @@
     --menuHanberger: none;
     --tailleImageLanguage: 70px;
     --tailleImage: 90px;
-    --tailleEntreBlock: 250px;
+    --tailleEntreBlock: 70px;
     --tailleFontPresentation: 1.1em;
     --tailleIntroduction: 50%;
 
@@ -80,7 +80,7 @@
     --menuHanberger: none;
     --tailleImageLanguage: 80px;
     --tailleImage: 100px;
-    --tailleEntreBlock: 250px;
+    --tailleEntreBlock: 70px;
     --tailleFontPresentation: 1.2em;
     --tailleIntroduction: 50%;
 
@@ -101,7 +101,7 @@
     --menuHanberger: none;
     --tailleImageLanguage: 90px;
     --tailleImage: 120px;
-    --tailleEntreBlock: 280px;
+    --tailleEntreBlock: 100px;
     --tailleFontPresentation: 1.2em;
     --tailleIntroduction: 50%;
 
@@ -123,7 +123,7 @@
     --menuHanberger: none;
     --tailleImageLanguage: 100px;
     --tailleImage: 140px;
-    --tailleEntreBlock: 300px;
+    --tailleEntreBlock: 120px;
     --tailleFontPresentation: 1.2em;
     --tailleIntroduction: 40%;
   }
