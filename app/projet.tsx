@@ -8,7 +8,7 @@ import Link from 'next/link'
 const projet = () => {
   return (
     <div className="blockColumnProjet new-block-page" id="projet">
-      <p className="titlePage">PROJETS</p>
+      <h2 className="titlePage">PROJETS</h2>
 
       <div className="blockProjet">
 

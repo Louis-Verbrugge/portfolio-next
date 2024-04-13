@@ -9,7 +9,7 @@ const langagesOutils = () => {
   return (
 
     <div className="blockColumnLangage new-block-page" id="langages">
-      <p className="titlePage">LANGAGES</p>
+      <h2 className="titlePage">LANGAGES</h2>
 
       <div className="blockLangage">
 
